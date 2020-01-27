@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Данил Корень](https://up.htmlacademy.ru/htmlcss/27/user/942679).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Прусаков](https://htmlacademy.ru/profile/hikikomori).
 
 ---
 
