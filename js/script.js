@@ -182,3 +182,4 @@ function showSlides(n)
     slides[slideIndex - 1].style.display = "block";
     points[slideIndex - 1].className += " active";
 }
+
