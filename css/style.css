@@ -1106,12 +1106,12 @@ label.search-icon {
   top:0;
   left:0;
   width:180px;
-  height:80px;
+  height:100px;
   
   padding-top: 35px;
   padding-left: 20px;
   z-index:10;
-  background-color:rgba(255,255,255,0.9);
+  background-color:rgba(255,255,255,1);
 }
 
 .button-buy,.button-book {
@@ -2831,14 +2831,6 @@ article.first-filter {
   height:0;
   border:20px solid #fff;
   border-left-color:#ee3643;
-}
-
-.catalog-popup .small-popup {
-  display:block;
-}
-
-.catalog-popup img {
-  visibility: hidden;
 }
 
 .catalog-item-card:hover .small-popup {
